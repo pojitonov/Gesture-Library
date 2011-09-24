@@ -20,8 +20,98 @@
 <update method="directlink" url="https://github.com/pojitonov/Gesture-Library/raw/master/updates/Gesture-Library.xml"/>
 
 <files>
-<file source="/Application List.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Application List.graphic.png"/>
-<file source="/Application List.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Application List.jsf"/>
+<file source="/Double Tap.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Double Tap.graphic.png"/>
+<file source="/Double Tap.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Double Tap.jsf"/>
+
+<file source="/Drag (2 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (2 fingers).graphic.png"/>
+<file source="/Drag (2 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (2 fingers).jsf"/>
+
+<file source="/Drag (2 hands).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (2 hands).graphic.png"/>
+<file source="/Drag (2 hands).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (2 hands).jsf"/>
+
+<file source="/Drag (3 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (3 fingers).graphic.png"/>
+<file source="/Drag (3 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (3 fingers).jsf"/>
+
+<file source="/Drag (4 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (4 fingers).graphic.png"/>
+<file source="/Drag (4 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (4 fingers).jsf"/>
+
+<file source="/Drag (5 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (5 fingers).graphic.png"/>
+<file source="/Drag (5 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag (5 fingers).jsf"/>
+
+<file source="/Drag.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag.graphic.png"/>
+<file source="/Drag.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Drag.jsf"/>
+
+<file source="/Flick.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Flick.graphic.png"/>
+<file source="/Flick.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Flick.jsf"/>
+
+<file source="/Lasso and Cross.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Lasso and Cross.graphic.png"/>
+<file source="/Lasso and Cross.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Lasso and Cross.jsf"/>
+
+<file source="/Pinch (inside).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Pinch (inside).graphic.png"/>
+<file source="/Pinch (inside).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Pinch (inside).jsf"/>
+
+<file source="/Pinch (outside).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Pinch (outside).graphic.png"/>
+<file source="/Pinch (outside).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Pinch (outside).jsf"/>
+
+<file source="/Press and Drag (2 hands).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Drag (2 hands).graphic.png"/>
+<file source="/Press and Drag (2 hands).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Drag (2 hands).jsf"/>
+
+<file source="/Press and Drag.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Drag.graphic.png"/>
+<file source="/Press and Drag.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Drag.jsf"/>
+
+<file source="/Press and Tap (2 hands).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Tap (2 hands).graphic.png"/>
+<file source="/Press and Tap (2 hands).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Tap (2 hands).jsf"/>
+
+<file source="/Press and Tap.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Tap.graphic.png"/>
+<file source="/Press and Tap.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Press and Tap.jsf"/>
+
+<file source="/Press.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Press.graphic.png"/>
+<file source="/Press.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Press.jsf"/>
+
+<file source="/Rotate (2 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Rotate (2 fingers).graphic.png"/>
+<file source="/Rotate (2 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Rotate (2 fingers).jsf"/>
+
+<file source="/Rotate (reverse).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Rotate (reverse).graphic.png"/>
+<file source="/Rotate (reverse).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Rotate (reverse).jsf"/>
+
+<file source="/Rotate (tap and rotate).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Rotate (tap and rotate).graphic.png"/>
+<file source="/Rotate (tap and rotate).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Rotate (tap and rotate).jsf"/>
+
+<file source="/Splay (2 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Splay (2 fingers).graphic.png"/>
+<file source="/Splay (2 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Splay (2 fingers).jsf"/>
+
+<file source="/Splay (5 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Splay (5 fingers).graphic.png"/>
+<file source="/Splay (5 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Splay (5 fingers).jsf"/>
+
+<file source="/Spread (inside).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Spread (inside).graphic.png"/>
+<file source="/Spread (inside).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Spread (inside).jsf"/>
+
+<file source="/Spread (outside).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Spread (outside).graphic.png"/>
+<file source="/Spread (outside).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Spread (outside).jsf"/>
+
+<file source="/Squeeze (2 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Squeeze (2 fingers).graphic.png"/>
+<file source="/Squeeze (2 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Squeeze (2 fingers).jsf"/>
+
+<file source="/Squeeze (5 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Squeeze (5 fingers).graphic.png"/>
+<file source="/Squeeze (5 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Squeeze (5 fingers).jsf"/>
+
+<file source="/Tap (2 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (2 fingers).graphic.png"/>
+<file source="/Tap (2 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (2 fingers).jsf"/>
+
+<file source="/Tap (3 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (3 fingers).graphic.png"/>
+<file source="/Tap (3 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (3 fingers).jsf"/>
+
+<file source="/Tap (4 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (4 fingers).graphic.png"/>
+<file source="/Tap (4 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (4 fingers).jsf"/>
+
+<file source="/Tap (5 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (5 fingers).graphic.png"/>
+<file source="/Tap (5 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap (5 fingers).jsf"/>
+
+<file source="/Tap.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap.graphic.png"/>
+<file source="/Tap.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Tap.jsf"/>
+
+<file source="/Vertical Drag (2 fingers).graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Vertical Drag (2 fingers).graphic.png"/>
+<file source="/Vertical Drag (2 fingers).jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Vertical Drag (2 fingers).jsf"/>
 
 </files>
 
