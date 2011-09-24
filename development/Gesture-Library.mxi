@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macromedia-extension
+	name="Gesture Library"
+	version="1.0.0"
+	type="symbols"
+	locked="false"
+	pkgtype="mxp"
+	plugin-manager-type="all-users"
+	enabled-for-enabled-all="true">
+	<author name="Timur Prokopiev"/>
+
+<products>
+<product name="Fireworks" version="10" primary="true" />
+</products>
+
+<description href="http://pojitonov.github.com/Gesture-Library">
+<![CDATA[Collection of gesture symbols for Fireworks.]]>
+</description>
+
+<update method="directlink" url="https://github.com/pojitonov/Gesture-Library/raw/master/updates/Gesture-Library.xml"/>
+
+<files>
+<file source="/Application List.graphic.png" destination="$fireworks/Configuration/Common Library/Gesture Library/Application List.graphic.png"/>
+<file source="/Application List.jsf" destination="$fireworks/Configuration/Common Library/Gesture Library/Application List.jsf"/>
+
+</files>
+
+</macromedia-extension>
